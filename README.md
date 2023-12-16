@@ -1,6 +1,6 @@
 # MAPTY
 Udemy course project
-check it out here:- https://map-wkout.netlify.app/
+check it out here:- [https://map-wkout.netlify.app/](https://workoutv2.netlify.app/)
 process:-
 *First allow your location
 *click the place where you want to go
